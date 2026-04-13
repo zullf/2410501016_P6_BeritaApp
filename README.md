@@ -70,12 +70,12 @@ Aplikasi ini menggunakan **Expo**.
 git clone <URL_REPOSITORY>
 ```
 
-### 3. Install Expo
+### 2. Install Expo
 ```bash
 npm install expo
 ```
 
-### 4. Jalankan Aplikasi
+### 3. Jalankan Aplikasi
 ```bash
 npx expo start
 ```
