@@ -54,10 +54,10 @@ menyimpan artikel favorit.
 ## Screenshot Preview
 
 <p>
-  <img src="assets/HomeScreen.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="assets/DetailScreen.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="assets/SearchScreen.jpeg" width="250" style="margin-right:10px;"/>
-  <img src="assets/BookmarkScreen.jpeg" width="250" style="margin-right:10px;"/>
+  <img src="assets/HomeScreen.jpeg" width="200" style="margin-right:10px;"/>
+  <img src="assets/DetailScreen.jpeg" width="200" style="margin-right:10px;"/>
+  <img src="assets/SearchScreen.jpeg" width="200" style="margin-right:10px;"/>
+  <img src="assets/BookmarkScreen.jpeg" width="200" style="margin-right:10px;"/>
 </p>
 
 ---
